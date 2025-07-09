@@ -18,13 +18,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
-topics:
-  - ui
-  - components
-  - glassmorphism
-  - material-design
-  - accessibility
-  - responsive
-  - theme
-  - animation
