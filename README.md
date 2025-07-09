@@ -1,4 +1,7 @@
 # Sam's UI Kit
+![GitHub stars](https://img.shields.io/github/stars/samizcolorz-74/sam_ui_kit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/samizcolorz-74/sam_ui_kit?style=social)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A comprehensive Flutter UI components library featuring modern glassmorphism effects, accessibility-first design, and responsive utilities.
 
