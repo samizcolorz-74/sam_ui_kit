@@ -1,0 +1,30 @@
+name: sam_ui_kit
+description: Sam's Modern Flutter UI Components Library with glassmorphism effects, accessibility features, and responsive design utilities.
+version: 1.0.0
+homepage: https://github.com/your-username/sam_ui_kit
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+topics:
+  - ui
+  - components
+  - glassmorphism
+  - material-design
+  - accessibility
+  - responsive
+  - theme
+  - animation
